@@ -34,7 +34,7 @@ function Component1() {
                 <p style={{paddingLeft: "50px"}}>Products</p>
                 <p style={{paddingLeft: "50px"}}>Resource</p> 
                 <p style={{paddingLeft: "50px"}}>Pricing</p>
-                <img style={{paddingLeft:"700px", height:"50px", width:"50px",borderRadius:"50%"}} src={avatar} alt="" />
+                <img style={{paddingLeft:"600px", height:"50px", width:"50px",borderRadius:"50%"}} src={avatar} alt="" />
             </div>
         </div>
         <div style={{marginTop:"30px"}}>
@@ -250,13 +250,13 @@ function Component1() {
                 <p style={{marginTop:"8px", fontSize:"18px", color:"gray", width:"390px"}}>How do you create compelling presentations that wow your colleagues and impress your managers?</p>
               </div>
             </div>  
-            <div style={{textAlign:"center", marginTop:"70px"}}>
+            <div style={{textAlign:"center", marginTop:"70px", marginBottom:"70px"}}>
               <h4 style={{fontSize:"20px", marginTop:"10px"}}><b>Start Your Free Trial </b></h4>
               <p style={{marginTop:"20px", fontSize:"18px", color:"gray"}}>Join over 4,000+ startups already growing with Untitled.</p>
               <button style={{padding:"12px 20px", fontSize:"14px",border:"1px solid #d6bbfb", borderRadius:"6px", backgroundColor:"white", color:"#7f56d9", marginLeft:"10px", marginTop:"25px", fontFamily:"sans-serif"}}>Learn more</button>
               <button style={{padding:"12px 20px", fontSize:"14px",border:"1px solid #d6bbfb", borderRadius:"6px", backgroundColor:"#7f56d9", color:"white", marginLeft:"10px", marginTop:"25px", fontFamily:"sans-serif"}}>Get started</button>
             </div>
-            <div style={{marginTop:"70px", display:"flex", justifyContent:"space-between", width:"1100px", margin:"auto", alignItems:"center", }}>
+            <div style={{marginTop:"60px", display:"flex", justifyContent:"space-between", width:"1100px", margin:"auto", alignItems:"center", }}>
               <div>
                 <p style={{color:"#7f56d9"}}><b>Product</b></p>
                 <p style={{marginTop:"15px", opacity:"60%"}}>Overview</p>
